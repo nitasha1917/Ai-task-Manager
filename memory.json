@@ -1,0 +1,437 @@
+{
+  "plans": [
+    {
+      "goal": "I want to learn python, JAVA in 2 months.",
+      "parsed_goal": {
+        "total_days": 2,
+        "hours_per_day": 2.0,
+        "topics": [
+          "Python,",
+          "Introduction and Basics",
+          "Core Concepts",
+          "Intermediate Topics",
+          "Advanced Concepts"
+        ],
+        "goal_summary": "I want to learn python, JAVA in 2 months."
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Python,",
+          "duration_hours": 2.0,
+          "status": "done",
+          "notes": "Study Python,"
+        },
+        {
+          "day": 2,
+          "topic": "Introduction and Basics",
+          "duration_hours": 2.0,
+          "status": "done",
+          "notes": "Study Introduction and Basics"
+        }
+      ],
+      "created_at": "2025-11-29T19:44:57.005235",
+      "updated_at": "2025-11-29T19:51:32.004611",
+      "id": 1
+    },
+    {
+      "goal": "learn bicycle in 10 days",
+      "parsed_goal": {
+        "goal_summary": "Learn to ride a bicycle in 10 days.",
+        "subject": "Bicycle Riding",
+        "total_days": 10,
+        "hours_per_day": 1.5,
+        "difficulty_level": "beginner",
+        "topics": [
+          "Bicycle Anatomy and Safety Check",
+          "Mounting and Dismounting the Bicycle",
+          "Balancing Practice (with and without pedals)",
+          "Pedaling Technique",
+          "Starting and Stopping Safely",
+          "Steering and Turning",
+          "Braking Effectively",
+          "Riding on Different Surfaces (e.g., grass, pavement)",
+          "Navigating Gentle Slopes",
+          "Basic Road Awareness and Rules"
+        ],
+        "prerequisites": [],
+        "learning_outcomes": [
+          "Confidently mount and dismount a bicycle.",
+          "Maintain balance while riding.",
+          "Pedal and steer effectively.",
+          "Start, stop, and turn safely.",
+          "Ride a bicycle independently on flat terrain."
+        ]
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "Bicycle Anatomy and Safety Check",
+          "subtopic": "Identifying key bicycle parts (frame, wheels, handlebars, pedals, brakes, chain) and performing a basic pre-ride safety check (tire pressure, brake function, chain lubrication).",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "done"
+        },
+        {
+          "day": 2,
+          "topic": "Mounting and Dismounting the Bicycle",
+          "subtopic": "Practicing safe and efficient methods of getting on and off the bicycle, including step-through and straddle mounts.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "topic": "Balancing Practice",
+          "subtopic": "Developing core balance skills by practicing gliding with feet off the pedals on a flat, open area.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "topic": "Balancing Practice (with pedals)",
+          "subtopic": "Integrating pedal use while maintaining balance, focusing on smooth leg motion and keeping the bicycle upright.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "topic": "Pedaling Technique",
+          "subtopic": "Learning efficient pedaling strokes, focusing on circular motion and maintaining a consistent cadence.",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "topic": "Starting and Stopping Safely",
+          "subtopic": "Practicing smooth starts from a standstill and controlled, safe stops using both front and rear brakes appropriately.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "topic": "Review and Practice Consolidation",
+          "subtopic": "Reviewing all learned topics from Day 1-6, focusing on areas of difficulty and integrating skills in a continuous riding session.",
+          "duration_hours": 1.0,
+          "activity": "review",
+          "status": "pending"
+        },
+        {
+          "day": 8,
+          "topic": "Steering and Turning",
+          "subtopic": "Developing smooth steering inputs for gentle turns and practicing wider turns on an open surface.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 9,
+          "topic": "Braking Effectively",
+          "subtopic": "Mastering effective braking techniques, including progressive braking and emergency stopping, understanding brake lever control.",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 10,
+          "topic": "Integrated Riding Skills Assessment",
+          "subtopic": "Applying all learned skills (mounting, balancing, pedaling, starting, stopping, steering, braking) in a simulated environment, including navigating gentle slopes and basic road awareness.",
+          "duration_hours": 1.5,
+          "activity": "project",
+          "status": "pending"
+        }
+      ],
+      "created_at": "2026-02-26T10:13:46.235322",
+      "updated_at": "2026-02-26T10:15:19.811053",
+      "id": 9
+    },
+    {
+      "goal": "learn c++ oops in 30 days",
+      "parsed_goal": {
+        "goal_summary": "Learn C++ Object-Oriented Programming concepts in 30 days.",
+        "subject": "C++ OOP",
+        "total_days": 30,
+        "hours_per_day": 1.5,
+        "difficulty_level": "beginner",
+        "topics": [
+          "C++ Basics Review (Variables, Data Types, Control Flow)",
+          "Introduction to Object-Oriented Programming",
+          "Classes and Objects in C++",
+          "Constructors and Destructors",
+          "Access Specifiers (Public, Private, Protected)",
+          "Member Functions and Data Members",
+          "Encapsulation",
+          "Inheritance (Single, Multiple, Multilevel)",
+          "Polymorphism (Compile-time and Run-time)",
+          "Virtual Functions and Abstract Classes",
+          "Function Overloading",
+          "Operator Overloading",
+          "Friend Functions and Classes",
+          "Solid Principles Introduction"
+        ],
+        "prerequisites": [
+          "Basic understanding of C++ syntax and fundamental programming concepts (variables, data types, control flow, functions)."
+        ],
+        "learning_outcomes": [
+          "Define and create classes and objects in C++.",
+          "Understand and apply core OOP principles like encapsulation, inheritance, and polymorphism.",
+          "Implement various forms of inheritance and polymorphism in C++ programs.",
+          "Write well-structured and modular C++ code using OOP paradigms."
+        ]
+      },
+      "schedule": [
+        {
+          "day": 1,
+          "topic": "C++ Basics Review",
+          "subtopic": "Variables, Data Types, and Basic Input/Output",
+          "duration_hours": 1.0,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 2,
+          "topic": "C++ Basics Review",
+          "subtopic": "Control Flow: If-Else Statements and Loops (For, While)",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 3,
+          "topic": "C++ Basics Review",
+          "subtopic": "Functions and Arrays",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 4,
+          "topic": "C++ Basics Review",
+          "subtopic": "Pointers and References",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 5,
+          "topic": "C++ Basics Review",
+          "subtopic": "Practice problems on C++ basics",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 6,
+          "topic": "Introduction to Object-Oriented Programming",
+          "subtopic": "Core concepts: Abstraction, Encapsulation, Inheritance, Polymorphism",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 7,
+          "topic": "C++ Basics Review",
+          "subtopic": "Comprehensive review and quiz on C++ fundamentals",
+          "duration_hours": 1.5,
+          "activity": "quiz",
+          "status": "pending"
+        },
+        {
+          "day": 8,
+          "topic": "Classes and Objects in C++",
+          "subtopic": "Defining classes, creating objects, and class members",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 9,
+          "topic": "Classes and Objects in C++",
+          "subtopic": "Practice creating simple classes and objects",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 10,
+          "topic": "Constructors and Destructors",
+          "subtopic": "Default, parameterized, and copy constructors",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 11,
+          "topic": "Constructors and Destructors",
+          "subtopic": "Understanding and implementing destructors",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 12,
+          "topic": "Constructors and Destructors",
+          "subtopic": "Practice problems involving constructors and destructors",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 13,
+          "topic": "Access Specifiers",
+          "subtopic": "Public, Private, and Protected members",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 14,
+          "topic": "Review",
+          "subtopic": "Review of Classes, Objects, Constructors, Destructors, and Access Specifiers",
+          "duration_hours": 1.5,
+          "activity": "review",
+          "status": "pending"
+        },
+        {
+          "day": 15,
+          "topic": "Member Functions and Data Members",
+          "subtopic": "Defining and using member functions, const member functions",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 16,
+          "topic": "Encapsulation",
+          "subtopic": "Bundling data and methods, benefits of encapsulation",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 17,
+          "topic": "Encapsulation",
+          "subtopic": "Implementing encapsulation using access specifiers",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 18,
+          "topic": "Inheritance (Single)",
+          "subtopic": "Concept of base and derived classes, `public` inheritance",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 19,
+          "topic": "Inheritance (Single)",
+          "subtopic": "Accessing base class members in derived classes, `protected` inheritance",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 20,
+          "topic": "Inheritance (Single)",
+          "subtopic": "Practice problems with single inheritance",
+          "duration_hours": 1.5,
+          "activity": "practice",
+          "status": "pending"
+        },
+        {
+          "day": 21,
+          "topic": "Review",
+          "subtopic": "Review of Member Functions, Encapsulation, and Single Inheritance",
+          "duration_hours": 1.5,
+          "activity": "review",
+          "status": "pending"
+        },
+        {
+          "day": 22,
+          "topic": "Inheritance (Multilevel)",
+          "subtopic": "Chains of inheritance",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 23,
+          "topic": "Inheritance (Multiple)",
+          "subtopic": "Inheriting from more than one base class, the diamond problem",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 24,
+          "topic": "Polymorphism (Compile-time)",
+          "subtopic": "Function Overloading",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 25,
+          "topic": "Polymorphism (Compile-time)",
+          "subtopic": "Operator Overloading",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 26,
+          "topic": "Polymorphism (Run-time)",
+          "subtopic": "Introduction to virtual functions",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 27,
+          "topic": "Polymorphism (Run-time)",
+          "subtopic": "Abstract Classes and Pure Virtual Functions",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 28,
+          "topic": "Project",
+          "subtopic": "Build a simple OOP application (e.g., a basic library system or employee management)",
+          "duration_hours": 1.5,
+          "activity": "project",
+          "status": "pending"
+        },
+        {
+          "day": 29,
+          "topic": "SOLID Principles Introduction",
+          "subtopic": "Brief overview of Single Responsibility, Open/Closed, Liskov Substitution principles",
+          "duration_hours": 1.5,
+          "activity": "learn",
+          "status": "pending"
+        },
+        {
+          "day": 30,
+          "topic": "Final Assessment",
+          "subtopic": "Comprehensive quiz and code review of OOP concepts",
+          "duration_hours": 1.5,
+          "activity": "quiz",
+          "status": "pending"
+        }
+      ],
+      "created_at": "2026-02-26T23:51:52.897024",
+      "updated_at": "2026-02-26T23:51:52.897024",
+      "id": 3
+    }
+  ],
+  "metadata": {
+    "created_at": "2024-01-01T00:00:00",
+    "version": "1.0.0"
+  }
+}
